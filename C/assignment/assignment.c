@@ -459,17 +459,186 @@
 // }
 
 // 16)WAP to print first 20 nos. of fibonacci series.
-#include<stdio.h>
-int main(){
-    int first=0;
-    int second=1;
-    for (int i=0;i<20;i++){
-        printf("%d \n",first);
-        int next=first+second;
-        first=second;
-        second=next;
-    }
-    printf("\n");
-    return 0;
-}
+// #include<stdio.h>
+// int main(){
+//     int first=0;
+//     int second=1;
+//     for (int i=0;i<20;i++){
+//         printf("%d \n",first);
+//         int next=first+second;
+//         first=second;
+//         second=next;
+//     }
+//     printf("\n");
+//     return 0;
+// }
 
+// 17)
+// #include<stdio.h>
+
+
+// void sum(int arr1[][2],int arr2[][2],int arr3[][2], int size){
+//     for (int i=0;i<size;i++){
+//         for (int j=0;j<size;j++){
+//             arr3[i][j]=arr1[i][j]+arr2[i][j];
+//         }
+//     }
+// }
+// void multiply(int arr1[][2],int arr2[][2],int arr3[][2], int size){
+//     for (int i=0;i<size;i++){
+//         for (int j=0;j<size;j++){
+//             arr3[i][j]=0;
+//             for (int k=0;k<size;k++){
+//                 arr3[i][j]=arr3[i][j]+(arr1[i][k]*arr2[k][j]);
+//             }
+//         }
+//     }
+// }
+
+
+// int main(){
+//     int size;
+//     printf("Enter size of matrix\n");
+//     scanf("%d",&size);
+//     int arr1[size][size],arr2[size][size],arr3[size][size];
+
+
+//     //entry for 1st matrix
+//     for (int i=0;i<size;i++){
+//         for (int j=0;j<size;j++){
+//             printf("Element %d %d:\t",i,j);
+//             scanf("%d",&arr1[i][j]);
+//         }
+//     }
+
+
+//     //printing
+//     printf("Matrix 1:\n");
+//     for (int i=0;i<size;i++){
+//         printf("\n");
+//         for (int j=0;j<size;j++){
+//             printf("%d\t",arr1[i][j]);
+//         }
+//     }
+
+
+//     printf("\n\n");
+
+
+//     //entry matrix 2
+//     for (int i=0;i<size;i++){
+//         for (int j=0;j<size;j++){
+//             printf("Element %d %d\t",i,j);
+//             scanf("%d",&arr2[i][j]);
+//         }
+//     }
+
+
+//     //printing
+//     printf("Matrix 2:\n");
+//     for (int i=0;i<size;i++){
+//         printf("\n");
+//         for (int j=0;j<size;j++){
+//             printf("%d\t",arr2[i][j]);
+//         }
+//     }
+
+
+//         printf("\n\n");
+// while(1){
+//     int ch;
+//     printf("\n\tM\t E\t N\t U\t\n");
+//     printf("1.SUM\n");
+//     printf("2.Multiply\n");
+//     scanf("%d",&ch);
+//     if (ch==1){
+//         sum(arr1,arr2,arr3,size);
+//     }
+//     else if(ch==2){
+//         multiply(arr1,arr2,arr3,size);
+//     }
+
+
+//     //printing
+//     printf("Matrix :\n");
+//     for (int i=0;i<size;i++){
+//         printf("\n");
+//         for (int j=0;j<size;j++){
+//             printf("%d\t",arr3[i][j]);
+//         }
+//     }
+   
+// }
+// printf("\n\n");
+//     return 0;
+// }
+
+
+
+// 18)
+// //18.WAP to find the LCM and GCF of 2 entered numbers.
+// #include<stdio.h>
+// int main(){
+//    int first,second,gcd;
+//    printf("Enter first number.\n");
+//    scanf("%d",&first);
+//    printf("Enter second number.\n");
+//    scanf("%d",&second);
+//    for (int i=1;i<=first && i<=second;i++){
+//        if (first%i==0 && second%i==0){
+//            gcd=i;
+//        }
+//    }
+//    int lcm=first*second/gcd;
+//    printf("LCM and GCF of %d and %d are %d and %d respectively.\n",first,second,lcm,gcd);
+//    return 0;
+// }
+
+// 19)
+// // 19 WAP to swap 2 names using array of pointers.
+// #include<stdio.h>
+// int main(){
+//    char name1[10],name2[10];
+//    char *names[]={name1,name2};
+//    printf("Enter first name: \n");
+//    scanf("%s",name1);
+//    printf("Enter second name: \n");
+//    scanf("%s",name2);
+
+
+//    char *temp=names[0];
+//    names[0]=names[1];
+//    names[1]=temp;
+//    printf("%s %s",names[0],names[1]);
+//    return 0;
+
+
+// }
+
+//20)
+// #include<stdio.h>
+// int main(){
+//     int n;
+//     int flag=1;
+//     printf("Enter length of the word.");
+//     scanf("%d",&n);
+//     char word[n];
+//     printf("Enter word=>\n");
+//     scanf("%s",word);
+//     for (int i=0;i<n/2;i++){
+//         if (word[i]==word[n-i-1]){
+//             flag=1;
+//         }
+//         else{
+//             flag=0;
+//             break;
+//         }
+//     }
+//     if (flag==1){
+//         printf("Yes, its a pallindrome.");
+//     }
+//     else{
+//         printf("No,not a pallindrome.");
+//     }
+//     return 0;
+// }
