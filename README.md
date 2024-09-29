@@ -33,3 +33,51 @@ Haha!🤣
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+<h2 align="center">🚀 What's Keeping Me Busy</h2>
+
+<p align="center">
+  🐍 Getting cozy with Python - it's my go-to for pretty much everything<br>
+  🌐 Going all in on the MERN stack - it's a game-changer, I'm telling ya<br>
+<!--   📱 Working some Flutter magic to make apps that'll run anywhere<br> -->
+  🧠 Dipping my toes into AI and Machine Learning - it's mind-blowing stuff!
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26-pm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=26-pm&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<h2 align="center">👁️ Profile Views</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/26-pm/count.svg" alt="Visitor Count" />
+</p>
+
+<h2 align="center">💡 A Coding Thoughts</h2>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
+  - Cory House
+</p>
+
+<h4 align="center">Last but not the least and my favourite.</h2>
+
+<p align="center">
+  <i>“The best way to predict the future is to invent it.” </i><br>
+  – Alan Kay
+</p>
+
+
+
