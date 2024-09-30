@@ -37,10 +37,10 @@ Haha!🤣
 <h2 align="center">🚀 What's Keeping Me Busy</h2>
 
 <p align="center">
-  🐍 Getting cozy with Python - it's my go-to for pretty much everything<br>
-  🌐 Going all in on the MERN stack - it's a game-changer, I'm telling ya<br>
-<!--   📱 Working some Flutter magic to make apps that'll run anywhere<br> -->
-  🧠 Dipping my toes into AI and Machine Learning - it's mind-blowing stuff!
+  🐍 Python is my go-to language for almost everything - it's just so versatile!<br>
+🌐 Deep diving into the MERN stack - it's been a game-changer in my projects.<br>
+<!--   📱 Crafting apps with Flutter - one codebase, every platform. --> 
+  🧠 Starting to explore the fascinating world of AI and Machine Learning - it's incredible!
 </p>
 
 <br>
