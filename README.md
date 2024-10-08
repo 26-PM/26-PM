@@ -1,5 +1,5 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-- 👋 Hi, I’m @26-PM
+- 👋 Hi, I’m PM.
 - 👀 I’m interested in 🤔.
 - 🌱 I’m currently learning.🧨
 - 💞️ I’m looking to collaborate on nothing.🎭
@@ -10,7 +10,7 @@ Haha!🤣
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%4026-PM;-+%F0%9F%91%80+I%E2%80%99m+interested+in+%F0%9F%A4%94.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning.%F0%9F%A7%A8+;-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate.%F0%9F%8E%AD+;-%F0%9F%93%ABHow+to+reach+me%3F+Sorry+you+can't.%F0%9F%98%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40PM;-+%F0%9F%91%80+I%E2%80%99m+interested+in+%F0%9F%A4%94.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning.%F0%9F%A7%A8+;-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate.%F0%9F%8E%AD+;-%F0%9F%93%ABHow+to+reach+me%3F+Sorry+you+can't.%F0%9F%98%86)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -59,7 +59,7 @@ Haha!🤣
 
 <br>
 
-<h2 align="center">👁️ Profile Views</h2>
+<h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/26-pm/count.svg" alt="Visitor Count" />
@@ -72,12 +72,14 @@ Haha!🤣
   - Cory House
 </p>
 
-<h4 align="center">Last but not the least and my favourite.</h2>
+<h4 align="center"><i>Last but not the least and my favourite.<i></h2>
 
 <p align="center">
   <i>“The best way to predict the future is to invent it.” </i><br>
   – Alan Kay
 </p>
+
+Thank you!
 
 
 
