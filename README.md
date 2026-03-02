@@ -45,25 +45,7 @@ Haha!🤣
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26-pm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-<br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=26-pm&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/26-pm/count.svg" alt="Visitor Count" />
-</p>
 
 <h2 align="center">💡 A Coding Thoughts</h2>
 
